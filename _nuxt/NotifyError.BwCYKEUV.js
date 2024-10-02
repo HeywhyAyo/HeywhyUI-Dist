@@ -1,0 +1,1 @@
+import{d as r}from"./theme-sugar.ClI1-5tb.js";const u=r.useToast();function c(){return(o,s,t="bottom")=>{u.success(o,{position:t,pauseOnHover:!0,duration:s})}}const n=r.useToast();function i(){return(o,s,t="bottom")=>{n.error(o,{position:t,pauseOnHover:!0,duration:s})}}export{i as E,c as S};
